@@ -6,3 +6,4 @@
 2. https://tmp38.tmpnb.org/
 3. http://informatics.mccme.ru/
 4. http://ninjaside.info/blog/ru/funkcii-map-i-zip-i-lambda-python/
+5. https://developers.google.com/edu/python/
